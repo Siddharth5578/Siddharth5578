@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Siddharth Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_423_752/0/1677431973169?e=1724889600&v=beta&t=8E5GPYEvMS3IE4qRr__cO6F9x9VNiYH3XmotJIHIpG4")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth5578&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth5578" /> </p>
 
