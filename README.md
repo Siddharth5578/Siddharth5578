@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth Rawat</h1>
 <h3 align="center">A passionate tech student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08d12a55-e693-48ee-856b-1d5f6501d62d/d70v5ax-26a15d5e-432d-4836-b720-c0fd3b6b5c6b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wOGQxMmE1NS1lNjkzLTQ4ZWUtODU2Yi0xZDVmNjUwMWQ2MmQvZDcwdjVheC0yNmExNWQ1ZS00MzJkLTQ4MzYtYjcyMC1jMGZkM2I2YjVjNmIuanBnIn1dXX0.cs1Hk-ywf3jf4rtl-9gvKZgAOVtlW-qJRQtt51t0vWs"/>
+<img align="background" alt="Coding" width="1200" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08d12a55-e693-48ee-856b-1d5f6501d62d/d70v5ax-26a15d5e-432d-4836-b720-c0fd3b6b5c6b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wOGQxMmE1NS1lNjkzLTQ4ZWUtODU2Yi0xZDVmNjUwMWQ2MmQvZDcwdjVheC0yNmExNWQ1ZS00MzJkLTQ4MzYtYjcyMC1jMGZkM2I2YjVjNmIuanBnIn1dXX0.cs1Hk-ywf3jf4rtl-9gvKZgAOVtlW-qJRQtt51t0vWs"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth5578&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth5578" /> </p>
 
